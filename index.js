@@ -2,7 +2,7 @@ const textInput = document.querySelector("#text-area-input");
 const textOutput = document.querySelector("#text-area-output");
 const btnTranslate = document.querySelector("#btn-translate");
 
-let url = "https://api.funtranslations.com/translate/minion.json";
+let url = "https://api.funtranslations.com/translate/groot.json";
 
 const getUrl = (text) => {
   return url + "?text=" + text;
