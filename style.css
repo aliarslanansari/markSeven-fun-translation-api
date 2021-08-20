@@ -81,6 +81,7 @@ button {
   padding: 1rem;
   background-color: var(--theme-secondary);
   border: 2px solid var(--text-primary);
+  border-radius: 10px;
   width: 80%;
   height: 15vh;
   font-family: "Roboto", sans-serif;
